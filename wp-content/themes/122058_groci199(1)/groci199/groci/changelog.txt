@@ -1,0 +1,93 @@
+v1.9.9
+-- Setup Wizard added.
+-- WooCommerce updated.
+-- Revolution Slider updated.
+
+v1.9.8
+-- HOME 3 has been added.
+-- WPBakery Page Builder has been updated.
+-- Klb Shortcode plugin has been updated.
+
+v1.9.7
+-- Sticky Header option has been added.
+-- Product Grid shortcode has been updated.
+-- Klb Shortcode plugin has been updated.
+-- Metabox has been updated.
+
+v1.9.6
+-- WooCommerce has been updated.
+-- Revolution Slider has been updated.
+-- Klb Shortcode plugin has been updated.
+
+v1.9.5
+-- WooCommerce has been updated.
+-- Revolution Slider has been updated.
+
+v1.9.4
+-- WooCommerce has been updated.
+-- Revolution Slider has been updated.
+
+v1.9.3
+-- WPBakery Page Builder has been updated.
+-- Envato Market plugin has been updated.
+-- The bug was fixed.
+
+v1.9.2
+-- WooCommerce has been updated.
+-- Revolution Slider has been updated.
+-- Klb Shortcode plugin has been updated.
+-- The codes have been updated.
+-- The bug was fixed.
+
+v1.9.1
+-- WooCommerce has been updated.
+-- Revolution Slider has been updated.
+-- Ajax Add to Cart option is enabled.
+-- The bug was fixed.
+
+v1.9
+-- WooCommerce has been updated.
+-- WPBakery Page Builder has been updated.
+-- Revolution Slider has been updated.
+-- The bug was fixed.
+
+v1.8
+-- Klb Shortcode has been updated.
+-- WooCommerce has been updated.
+-- The bug was fixed.
+
+v1.7
+-- WPBakery Page Builder has been updated.
+-- Klb Shortcode has been updated.
+-- WooCommerce has been updated.
+-- The bug was fixed.
+
+v1.6
+-- WooCommerce has been updated.
+-- The bug was fixed.
+
+v1.5
+-- WP Bakery Page Builder plugin has been updated.
+-- WooCommerce has been updated.
+-- Revolution Slider has been updated.
+-- The bug was fixed.
+
+v1.4
+-- WP Bakery Page Builder plugin has been updated.
+-- WooCommerce has been updated.
+-- The bug was fixed.
+
+v1.3
+-- WP Bakery Page Builder plugin has been updated.
+-- WooCommerce has been updated.
+-- Theme Option plugin has been updated.
+
+v1.2
+-- WP Bakery Page Builder plugin has been updated.
+-- The Color issue has been fixed.
+-- The bug was fixed.
+
+v1.1
+-- The design has been updated.
+-- One Click Installation updated.
+-- The bug was fixed.

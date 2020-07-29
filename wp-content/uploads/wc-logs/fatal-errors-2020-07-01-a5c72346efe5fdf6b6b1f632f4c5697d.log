@@ -1,0 +1,37 @@
+2020-07-01T10:55:13+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_External::get_product_url2() in C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php:555
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php(259): WC_Product_Data_Store_CPT->update_post_meta(Object(WC_Product_External))
+#1 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(179): WC_Product_Data_Store_CPT->update(Object(WC_Product_External))
+#2 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php(1376): WC_Data_Store->update(Object(WC_Product_External))
+#3 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(420): WC_Product->save()
+#4 C:\xampp\htdocs\ecommerce2\wp-includes\class-wp-hook.php(287): WC_Meta_Box_Product_Data::save(899, Object(WP_Post))
+#5 C:\xampp\htdocs\e in C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php on line 555
+
+2020-07-01T11:00:54+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_External::get_product_url1() in C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-general.php:18
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(42): include()
+#1 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-panel.php(51): WC_Meta_Box_Product_Data::output_tabs()
+#2 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(33): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce2\wp-admin\includes\template.php(1345): WC_Meta_Box_Product_Data::output(Object(WP_Post), Array)
+#4 C:\xampp\htdocs\ecommerce2\wp-admin\edit-form-advanced.php(677): do_meta_boxes(Object(WP_Screen), 'normal', Object(WP_Post))
+#5 C:\xampp\htdocs\ecommerce2\wp-admin\post.php(206): require('C:\\xampp\\htdocs...')
+#6  in C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\admin\meta-boxes\views\html-product-data-general.php on line 18
+
+2020-07-01T11:03:38+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_External::get_product_url1() in C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php:555
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php(259): WC_Product_Data_Store_CPT->update_post_meta(Object(WC_Product_External))
+#1 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(179): WC_Product_Data_Store_CPT->update(Object(WC_Product_External))
+#2 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php(1376): WC_Data_Store->update(Object(WC_Product_External))
+#3 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(420): WC_Product->save()
+#4 C:\xampp\htdocs\ecommerce2\wp-includes\class-wp-hook.php(287): WC_Meta_Box_Product_Data::save(899, Object(WP_Post))
+#5 C:\xampp\htdocs\e in C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php on line 555
+
+2020-07-01T11:06:37+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_External::get_button_text1() in C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php:555
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php(259): WC_Product_Data_Store_CPT->update_post_meta(Object(WC_Product_External))
+#1 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(179): WC_Product_Data_Store_CPT->update(Object(WC_Product_External))
+#2 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\abstracts\abstract-wc-product.php(1376): WC_Data_Store->update(Object(WC_Product_External))
+#3 C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\admin\meta-boxes\class-wc-meta-box-product-data.php(420): WC_Product->save()
+#4 C:\xampp\htdocs\ecommerce2\wp-includes\class-wp-hook.php(287): WC_Meta_Box_Product_Data::save(899, Object(WP_Post))
+#5 C:\xampp\htdocs\e in C:\xampp\htdocs\ecommerce2\wp-content\plugins\woocommerce\includes\data-stores\class-wc-product-data-store-cpt.php on line 555
+

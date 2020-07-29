@@ -1,0 +1,28 @@
+2020-07-24T08:02:14+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\ynz\wp-content\plugins\elementor\modules\usage\module.php:237
+Stack trace:
+#0 C:\xampp\htdocs\ynz\wp-includes\class-wp-hook.php(287): Elementor\Modules\Usage\Module->on_before_delete_post('0')
+#1 C:\xampp\htdocs\ynz\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\ynz\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ynz\wp-includes\post.php(2986): do_action('before_delete_p...', '0')
+#4 C:\xampp\htdocs\ynz\wp-includes\post.php(6990): wp_delete_post('0', true)
+#5 C:\xampp\htdocs\ynz\wp-includes\class-wp-hook.php(287): wp_delete_auto_drafts()
+#6 C:\xampp\htdocs\ynz\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 C:\xampp\htdocs\ynz\wp-includes\plugin.php(544): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\ynz\wp-cron.php(138): do_action_ref_array('wp_scheduled_au...', Array)
+#9 {main}
+  thrown in C:\xampp\htdocs\ynz\wp-content\plugins\elementor\modules\usage\module.php on line 237
+
+2020-07-24T10:16:30+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on bool in C:\xampp\htdocs\ynz\wp-content\plugins\elementor\modules\usage\module.php:237
+Stack trace:
+#0 C:\xampp\htdocs\ynz\wp-includes\class-wp-hook.php(287): Elementor\Modules\Usage\Module->on_before_delete_post('0')
+#1 C:\xampp\htdocs\ynz\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\ynz\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\ynz\wp-includes\post.php(2986): do_action('before_delete_p...', '0')
+#4 C:\xampp\htdocs\ynz\wp-includes\post.php(6990): wp_delete_post('0', true)
+#5 C:\xampp\htdocs\ynz\wp-includes\class-wp-hook.php(287): wp_delete_auto_drafts()
+#6 C:\xampp\htdocs\ynz\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#7 C:\xampp\htdocs\ynz\wp-includes\plugin.php(544): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\ynz\wp-cron.php(138): do_action_ref_array('wp_scheduled_au...', Array)
+#9 {main}
+  thrown in C:\xampp\htdocs\ynz\wp-content\plugins\elementor\modules\usage\module.php on line 237
+

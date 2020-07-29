@@ -1,0 +1,25 @@
+.navbar-purple.navbar-sticky {
+    top: 32px !important;
+}
+.type-radio-image img[alt="Dual Sidebar"],
+.type-radio-image img[alt="Left Dual Sidebar"],
+.type-radio-image img[alt="Right Dual Sidebar"] {
+    display: none;
+}
+.appearance_page_ot-theme-options .wp-picker-container input.hide-color-picker.wp-color-picker {
+    display: block;
+}
+@media screen and (max-width: 480px){
+	.navbar-purple.navbar-sticky {
+		top: 0;
+	}
+}
+
+
+.cart-sidebar {
+    top: 32px !important;
+}
+
+nav.navbar.sticky-header {
+    top: 32px !important;
+}
